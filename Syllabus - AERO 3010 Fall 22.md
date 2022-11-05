@@ -123,38 +123,38 @@ If you have a prior-approved absence for a class during which an examination is 
 
 The AERO 3010 Fall 2022 course sequence is listed below. Class times vary and may consist of informal lectures, discussion, and student briefings. Unless otherwise indicated, all preparatory reading assignments are contained in the Student Reader posted on Blackboard and must be accomplished **prior** to class.
 
-| Week |   Date    | Lesson                                                      | Reading Assignments |
-|:----:|:---------:|:----------------------------------------------------------- |:------------------- |
-|  1   | 1 Sep 22  | LESSON 0: Gateway to POC 2.0                                | None                |
-|  2   | 8 Sep 22  | LESSON 1: AS300 Course Overview                             | None                |
-|  2   | 8 Sep 22  | LESSON 18: Managing Competing Priorities (2 hrs)            | Student Reader      |
-|  3   | 15 Sep 22 | LESSON 3: Critical Thinking                                 | Student Reader      |
-|  3   | 15 Sep 22 | LESSON 5: Change Management                                 | Student Reader      |
-|  3   | 15 Sep 22 | LESSON 8: Effective Supervision                             | Student Reader      |
-|  4   | 22 Sep 22 | LESSON 4: DAF Leader Development                            | Student Reader      |
-|  4   | 22 Sep 22 | LESSON 14: Leading Diverse Organizations (2 hrs)            | Student Reader      |
-|  5   | 29 Sep 22 | LESSON 6: DAF Writing (2 hrs)                               | Student Reader      |
-|  5   | 29 Sep 22 | LESSON 7: Informative Briefing Requirements                 | Student Reader      |
-|  5   | 29 Sep 22 | **WRITING ASSIGNMENT #1 DUE**                               | N/A                 |
-|  6   | 6 Oct 22  | LESSON 11: Bullet Statements                                | Student Reader      |
-|  6   | 6 Oct 22  | LESSON 12: Bullet Practicum: Writing (2 hrs)                | Student Reader      |
-|  7   | 13 Oct 22 | MID-TERM EXAM                                               | None                |
-|  7   | 13 Oct 22 | LESSON 15: Cross-Culture Competence (2 hrs)                 | Student Reader      |
-|  8   | 20 Oct 22 | LESSON 16: Extremism                                        | Student Reader      |
-|  8   | 20 Oct 22 | LESSON 20: Code of Conduct                                  | Student Reader      |
-|  8   | 20 Oct 22 | LESSON 21: Joint Ethics                                     | Student Reader      |
-|  9   | 27 Oct 22 | LESSON 9: The Enlisted Force                                | Student Reader      |
-|  9   | 27 Oct 22 | LESSON 10: The Commissioned Perspective (2 hrs)             | Student Reader      |
-|  10  | 3 Nov 22  | LESSON 22: Air Force Heritage Series                        | Student Reader      |
-|  10  | 3 Nov 22  | LESSON 19: Airmanship (2 hrs)                               | Student Reader      |
-|  11  | 10 Nov 22 | LESSON 2: OPSEC                                             | Student Reader      |
-|  11  | 10 Nov 22 | LESSON 13: Bias (2 hrs)                                     | Student Reader      |
-|  12  | 17 Nov 22 |                                                             |                     | 
-|  13  | 24 Nov 22 | NO CLASS (THANKSGIVING BREAK) **WRITING ASSIGNMENT #2 DUE** | N/A                 |
-|  14  | 1 Dec 22  | LESSON 17: Your Financial Future Pt 2                       | None                |
-|  15  | 8 Dec 22  | Informative Briefings                                       | None                |
-|  16  | 15 Dec 22 | FINAL EXAM                                                  | None                |
-|  16  | 15 Dec 22 | AF Fm 1206 Review                                           | None                |
+| Week | Date      | Lesson                                           | Reading Assignments |
+| ---- | --------- | ------------------------------------------------ | ------------------- |
+| 1    | 1 Sep 22  | LESSON 0: Gateway to POC 2.0                     | None                |
+| 2    | 8 Sep 22  | LESSON 1: AS300 Course Overview                  | Student Reader      |
+|      |           | LESSON 18: Managing Competing Priorities (2 hrs) | Student Reader      |
+| 3    | 15 Sep 22 | LESSON 3: Critical Thinking                      | Student Reader      |
+|      |           | LESSON 5: Change Management                      | Student Reader      |
+|      |           | LESSON 8: Effective Supervision                  | Student Reader      |
+| 4    | 22 Sep 22 | LESSON 4: DAF Leader Development                 | Student Reader      |
+|      |           | LESSON 14: Leading Diverse Organizations (2 hrs) | Student Reader      |
+| 5    | 29 Sep 22 | LESSON 6: DAF Writing (2 hrs)                    | Student Reader      |
+|      |           | LESSON 7: Informative Briefing Requirements      | Student Reader      |
+|      |           | WRITING ASSIGNMENT #1 DUE                        | N/A                 |
+| 6    | 6 Oct 22  | LESSON 11: Bullet Statements                     | Student Reader      |
+|      |           | LESSON 12: Bullet Practicum: Writing (2 hrs)     | Student Reader      |
+| 7    | 13 Oct 22 | Mid-Term Exam                                    | N/A                 |
+| 8    | 20 Oct 22 | LESSON 15: Cross-Culture Competence (2 hrs)      | N/A                 |
+| 9    | 27 Oct 22 | LESSON 16: Extremism                             | Student Reader      |
+|      |           | LESSON 20: Code of Conduct                       | Student Reader      |
+|      |           | LESSON 21: Joint Ethics                          | Student Reader      |
+| 10   | 3 Nov 22  | LESSON 9: The Enlisted Force                     | Student Reader      |
+|      |           | LESSON 10: The Commissioned Perspective (2 hrs)  | Student Reader      |
+| 11   | 10 Nov 22 | LESSON 22: Air Force Heritage Series             | None                |
+|      |           | LESSON 19: Airmanship (2 hrs)                    | Student Reader      |
+| 12   | 17 Nov 22 | LESSON 2: OPSEC                                  | Student Reader      |
+|      |           | LESSON 13: Bias (2 hrs)                          | Student Reader      |
+| 13   | 24 Nov 22 | NO CLASS (THANKSGIVING BREAK)                    | N/A                 |
+|      |           | WRITING ASSIGNMENT #2 DUE                        | N/A                 |
+| 14   | 1 Dec 22  | LESSON 17: Your Financial Future Pt 2            | Student Reader      |
+| 15   | 8 Dec 22  | Informative Briefings                            | N/A                 |
+| 16   | 15 Dec 22 | Final Exam                                       | N/A                 |
+|      |           | AF Fm 1206 Review                                | N/A                 |
 
 ---
 ## ATTACHMENT #1 INFORMATIVE BRIEFING REQUIREMENTS
