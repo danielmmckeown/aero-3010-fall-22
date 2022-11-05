@@ -3,10 +3,10 @@ Aerospace Studies (AERO) 3010, *Leading People and Effective Communication, Part
 Tuesdays, 1530 - 1830 in Wannalancit Room 150
 
 ## INSTRUCTOR CONTACT INFORMATION
-Captain Daniel McKeown, USAF 
-Office Phone: (978) 934-4948 
-Office Hours: https://fantastical.app/danielmmckeown-X0xS/meeting-with-capt-mckeown 
-E-mail: daniel_mckeown@uml.edu 
+Captain Daniel McKeown, USAF  
+Office Phone: (978) 934-4948  
+Office Hours: https://fantastical.app/danielmmckeown-X0xS/meeting-with-capt-mckeown  
+E-mail: daniel_mckeown@uml.edu  
 
 ## COURSE DESCRIPTION
 AERO 3010, *Leading People and Effective Communication*, utilizes student’s field training experience to take a more in-depth look at leadership. Special emphasis is placed on enhancing communication skills, and why that is important as a leader. Students have an opportunity to try out these leadership and management techniques in a supervised environment as juniors and seniors.
