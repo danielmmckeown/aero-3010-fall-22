@@ -1,6 +1,6 @@
 ## COURSE TITLE
-Aerospace Studies (AERO) 3010, *Leading People and Effective Communication, Part I,* (3 credit hours)
-Tuesdays, 1530 - 1830 in Wannalancit Room 150
+Aerospace Studies (AERO) 3010, *Leading People and Effective Communication, Part I,* (3 credit hours)  
+Tuesdays, 1530 - 1830 in Wannalancit Room 150  
 
 ## INSTRUCTOR CONTACT INFORMATION
 Captain Daniel McKeown, USAF  
